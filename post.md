@@ -3,7 +3,20 @@ title: Let's Algorit!
 layout: default
 ---
 
-## Step by Step!   Let's Algorit!
+##Warm up {color: #c71585;}
+
+#Visual studio install & introdution {color: #4169e1;}
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_vueHQ-WLro" frameborder="0" allowfullscreen></iframe>
+
+---
+
+#Compiling on website{color: #4169e1;}
+
+* [Compiler on website](http://ideone.com/)
+
+---
+## Step by Step!   Let's Algorit!{color: #c71585;}
 ---
 
 1단계 (Scanf와 print문 정복하기)
