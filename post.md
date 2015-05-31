@@ -1,15 +1,21 @@
 ---
+title: Let's Algoric!
 layout: default
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vy_GaL1cS0I" frameborder="0" allowfullscreen></iframe>
+단계 별로 정복해 나가는 학습법입니다.
+---
+
+1단계 (Scanf와 print문 정복)
+
+* [1단계 1문항](http://183.106.113.109/30stair/area/area.php?pname=area)
 <div class="home" id="home">
-  <h1 class="pageTitle">Posts</h1>
+  <h1 class="pageTitle">Recent Posts</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.lsg154 }}">{{ post.title }}</a></h3>
+        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
         <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
       </li>
     {% endfor %}
