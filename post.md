@@ -10,7 +10,7 @@ layout: default
 
 * [1단계 1문항](http://183.106.113.109/30stair/area/area.php?pname=area)
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
+ 
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
