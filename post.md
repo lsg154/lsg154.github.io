@@ -5,14 +5,13 @@ layout: default
 
 ##Warm up 
 
+* [Visual Studio Install & Introduction] (https://www.youtube.com/watch?v=_vueHQ-WLro)
+
+* [Compiler On Website](http://ideone.com/)
+
 ---
 
-* [Visual studio install & introduction] (https://www.youtube.com/watch?v=_vueHQ-WLro)
-
-* [Compiler on website](http://ideone.com/)
-
 ## Step by Step!   Let's Algorit!
-
 
 1단계 (Scanf와 print문 정복하기)
 
