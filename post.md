@@ -3,7 +3,7 @@ title: Let's Algoric!
 layout: default
 ---
 
-##단계 별로 정복해 나가는 학습법입니다.
+## Step by Step! Let's Algoric!
 ---
 
 1단계 (Scanf와 print문 정복하기)
