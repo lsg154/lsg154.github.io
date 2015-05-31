@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vy_GaL1cS0I" frameborder="0" allowfullscreen></iframe>
 <div class="home" id="home">
   <h1 class="pageTitle">Recent Posts</h1>
   <ul class="posts noList">
