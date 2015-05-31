@@ -8,6 +8,7 @@ layout: default
 * [Visual studio install & introduction] (https://www.youtube.com/watch?v=_vueHQ-WLro)
 
 * [Compiler on website](http://ideone.com/)
+
 ===
 ## Step by Step!   Let's Algorit!
 
