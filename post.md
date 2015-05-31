@@ -7,12 +7,7 @@ layout: default
 
 ---
 
-Visual studio install & introduction 
-
-* [install & introduction] ("https://www.youtube.com/watch?v=_vueHQ-WLro)
----
-
-Compiling on website
+* [Visual studio install & introduction] ("https://www.youtube.com/watch?v=_vueHQ-WLro)
 
 * [Compiler on website](http://ideone.com/)
 
