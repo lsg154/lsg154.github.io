@@ -1,9 +1,9 @@
 ---
-title: Let's Algoric!
+title: Let's Algorit!
 layout: default
 ---
 
-##단계 별로 정복해 나가는 학습법입니다.
+## Step by Step!   Let's Algorit!
 ---
 
 1단계 (Scanf와 print문 정복하기)
