@@ -18,6 +18,7 @@ layout: default
 ---
 
 2단계 (if문 정복하기)
+
 * [2단계 1문항](http://183.106.113.109/30stair/compare/compare.php?pname=compare)
 * [2단계 2문항](http://183.106.113.109/30stair/comparefrac/comparefrac.php?pname=comparefrac)
 * [2단계 3문항](http://183.106.113.109/30stair/coci_note/coci_note.php?pname=coci_note)
@@ -27,6 +28,7 @@ layout: default
 ---
 
 3단계 (for문 정복하기)
+
 * [3단계 1문항](http://183.106.113.109/30stair/star/star.php?pname=star)
 * [3단계 2문항](http://183.106.113.109/30stair/rep/rep.php?pname=rep)
 * [3단계 3문항](http://183.106.113.109/30stair/seq/seq.php?pname=seq)
@@ -36,6 +38,7 @@ layout: default
 ---
 
 4단계 (다중 반복문 정복하기)
+
 * [4단계 1문항](http://183.106.113.109/30stair/tri1/tri1.php?pname=tri1)
 * [4단계 2문항](http://183.106.113.109/30stair/tri2/tri2.php?pname=tri2)
 * [4단계 3문항](http://183.106.113.109/30stair/tri3/tri3.php?pname=tri3)
@@ -45,6 +48,7 @@ layout: default
 ---
 
 5단계 (배열 정복하기)
+
 * [5단계 1문항](http://183.106.113.109/30stair/rprint/rprint.php?pname=rprint)
 * [5단계 2문항](http://183.106.113.109/30stair/pmin/pmin.php?pname=pmin)
 * [5단계 3문항](http://183.106.113.109/30stair/white/white.php?pname=white)
