@@ -15,8 +15,6 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Warm Up
-   url: /warm
  - title: Let's Algorit!
    url: /post
 
